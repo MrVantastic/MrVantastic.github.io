@@ -1,0 +1,44 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,300italic,700);
+body{
+background-color: #F0FFFF;
+font-family: 'Open Sans Condensed', Arial, sans-serif;
+}
+header{
+  text-align: center;
+}
+a{
+  color: purple;
+  text-decoration: none;
+}
+h1{
+color: #000000;
+border: solid;
+border-color: white;
+padding: 20px 40px;
+margin: 10px 700px;
+text-align: center;
+width: 200px;
+font-size: 200%;
+}
+h2, h3, h4, h5{
+  padding: 5px;
+  margin: 0px;
+}
+section{
+  padding: 10px 40px;
+  margin: 30px;
+  background-color: #6495ED;
+}
+ol{
+font-size: 150%;
+}
+#bio{
+  border-radius: 30px;
+}
+.shadow{
+  box-shadow: 10px 10px 5px #888888;
+}
+img{
+  padding: 10px 40px;
+  margin:10px 725px;
+}
